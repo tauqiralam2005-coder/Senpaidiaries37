@@ -1,2 +1,161 @@
-# Senpaidiaries37
-Enjoy gaming with me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO -->
+  <title>SenpaiDiaries37 | Gaming & Live Streaming</title>
+  <meta name="description" content="SenpaiDiaries37 is a gaming and live streaming YouTube channel featuring Minecraft, Free Fire, Roblox, Among Us, and more. Join the gaming journey!" />
+  <meta name="keywords" content="SenpaiDiaries37, gaming, minecraft, free fire, roblox, among us, live streaming" />
+  <meta name="author" content="SenpaiDiaries37" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Poppins&display=swap" rel="stylesheet">
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #0b0b0f;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 80px 20px;
+      background: radial-gradient(circle, #001f3f, #000);
+    }
+
+    header h1 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 2.5rem;
+      color: #00e5ff;
+    }
+
+    header p {
+      margin: 15px 0;
+      color: #ccc;
+    }
+
+    .btn {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 25px;
+      border-radius: 30px;
+      text-decoration: none;
+      color: #fff;
+      background: linear-gradient(45deg, #00e5ff, #ff1744);
+      font-weight: bold;
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h2 {
+      font-family: 'Orbitron', sans-serif;
+      color: #ff1744;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    .videos iframe {
+      width: 100%;
+      height: 220px;
+      margin: 10px 0;
+      border-radius: 10px;
+    }
+
+    .live {
+      text-align: center;
+      background: #111;
+      border: 2px dashed #ff1744;
+      padding: 30px;
+      border-radius: 15px;
+    }
+
+    .social a {
+      margin: 10px;
+      font-size: 1.2rem;
+      color: #00e5ff;
+      text-decoration: none;
+    }
+
+    form input, form textarea {
+      width: 100%;
+      padding: 12px;
+      margin: 8px 0;
+      border-radius: 8px;
+      border: none;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #000;
+      color: #777;
+    }
+
+    @media (min-width: 768px) {
+      header h1 { font-size: 3.5rem; }
+      .videos iframe { height: 320px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>SenpaiDiaries37</h1>
+  <p>Minecraft • Free Fire • Roblox • Among Us • Stumble Guys</p>
+  <a class="btn" href="https://youtube.com/@Senpaidiaries37" target="_blank">Subscribe on YouTube</a>
+  <a class="btn" href="#videos">Watch Videos</a>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    Welcome to <b>SenpaiDiaries37</b> — a gaming and live streaming channel built for fun, action, and community.
+    I create exciting gameplay, livestreams, and gaming moments across multiple popular games.
+  </p>
+</section>
+
+<section id="videos" class="videos">
+  <h2>Latest Videos</h2>
+
+  <!-- Replace VIDEO_ID -->
+  <iframe src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+</section>
+
+<section class="live">
+  <h2>🔴 Live Streams</h2>
+  <p>Streaming Soon… Stay tuned for the next live session!</p>
+</section>
+
+<section class="social">
+  <h2>Join the Community</h2>
+  <a href="https://youtube.com/@Senpaidiaries37" target="_blank">YouTube</a>
+  <a href="#" target="tauqir07">Instagram</a>
+  <a href="#" target="_blank">Discord</a>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <form>
+    <input type="text" placeholder="Senpaidiaries37" required>
+    <input type="superman82877@gmail.com" placeholder="superman82877@gmail.com" required>
+    <textarea rows="4" placeholder="Guys let's enjoy gameing with me"></textarea>
+    <button class="btn" type="submit">Send Message</button>
+  </form>
+</section>
+
+<footer>
+  © 2026 SenpaiDiaries37 | Built for gamers 🎮
+</footer>
+
+</body>
+</html>
